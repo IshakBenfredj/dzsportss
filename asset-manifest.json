@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dzsports/static/css/main.5dee71e8.css",
+    "main.css": "/dzsports/static/css/main.e5c637e7.css",
     "main.js": "/dzsports/static/js/main.66d61245.js",
     "static/media/Landingvideo.mp4": "/dzsports/static/media/Landingvideo.473b6ed75b69521148d6.mp4",
     "static/media/jido.jpg": "/dzsports/static/media/jido.ac27b4cffa53d0ec27c6.jpg",
@@ -14,11 +14,11 @@
     "static/media/LogoWhiteResp.png": "/dzsports/static/media/LogoWhiteResp.c01585b96dbd0dcc51b1.png",
     "static/media/kamal.jpg": "/dzsports/static/media/kamal.dd2d87ca4d1a95f8917a.jpg",
     "index.html": "/dzsports/index.html",
-    "main.5dee71e8.css.map": "/dzsports/static/css/main.5dee71e8.css.map",
+    "main.e5c637e7.css.map": "/dzsports/static/css/main.e5c637e7.css.map",
     "main.66d61245.js.map": "/dzsports/static/js/main.66d61245.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dee71e8.css",
+    "static/css/main.e5c637e7.css",
     "static/js/main.66d61245.js"
   ]
 }
