@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dzsports/static/css/main.a9ac0eae.css",
-    "main.js": "/dzsports/static/js/main.6b3e0447.js",
+    "main.css": "/dzsports/static/css/main.0431401a.css",
+    "main.js": "/dzsports/static/js/main.4f675e9a.js",
     "static/media/Landingvideo.mp4": "/dzsports/static/media/Landingvideo.473b6ed75b69521148d6.mp4",
     "static/media/signup1.jpeg": "/dzsports/static/media/signup1.41f2871e9163d5bad6ed.jpeg",
     "static/media/jido.jpg": "/dzsports/static/media/jido.ac27b4cffa53d0ec27c6.jpg",
@@ -15,11 +15,11 @@
     "static/media/LogoWhiteResp.png": "/dzsports/static/media/LogoWhiteResp.c01585b96dbd0dcc51b1.png",
     "static/media/kamal.jpg": "/dzsports/static/media/kamal.dd2d87ca4d1a95f8917a.jpg",
     "index.html": "/dzsports/index.html",
-    "main.a9ac0eae.css.map": "/dzsports/static/css/main.a9ac0eae.css.map",
-    "main.6b3e0447.js.map": "/dzsports/static/js/main.6b3e0447.js.map"
+    "main.0431401a.css.map": "/dzsports/static/css/main.0431401a.css.map",
+    "main.4f675e9a.js.map": "/dzsports/static/js/main.4f675e9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9ac0eae.css",
-    "static/js/main.6b3e0447.js"
+    "static/css/main.0431401a.css",
+    "static/js/main.4f675e9a.js"
   ]
 }
